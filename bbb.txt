@@ -1,7 +1,7 @@
 bbbb file added
-<<<<<<< HEAD
 
 updated by master
-=======
+
 modified
->>>>>>> 15144aa96f196c5c607afcb99fbccf90c69976ee
+
+done
